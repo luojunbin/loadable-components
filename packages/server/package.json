@@ -1,7 +1,7 @@
 {
   "name": "@byted/loadable-server-wip",
   "description": "Server utilities for loadable.",
-  "version": "5.12.1",
+  "version": "5.13.0",
   "main": "lib/index.js",
   "repository": "git@github.com:smooth-code/loadable-components.git",
   "author": "Greg Bergé <berge.greg@gmail.com>",

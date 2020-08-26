@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.13.0](https://github.com/smooth-code/loadable-components/compare/v5.11.0...v5.13.0) (2020-08-26)
+
+
+### Features
+
+* **server:** server 修改依赖 ([660690b](https://github.com/smooth-code/loadable-components/commit/660690bd3033a35d2bdcc409b33a9effeeb9e0f4))
+
+
+
+
+
 # [5.11.0](https://github.com/smooth-code/loadable-components/compare/v5.10.3...v5.11.0) (2019-12-02)
 
 

@@ -1,7 +1,7 @@
 {
   "name": "@byted/loadable-component-wip",
   "description": "React code splitting made easy.",
-  "version": "5.12.1",
+  "version": "5.13.0",
   "main": "dist/loadable.cjs.js",
   "module": "dist/loadable.esm.js",
   "repository": "git@github.com:smooth-code/loadable-components.git",
