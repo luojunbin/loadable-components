@@ -1,7 +1,7 @@
 {
-  "name": "@loadable/server",
+  "name": "@byted/loadable-server-wip",
   "description": "Server utilities for loadable.",
-  "version": "5.11.0",
+  "version": "5.12.1",
   "main": "lib/index.js",
   "repository": "git@github.com:smooth-code/loadable-components.git",
   "author": "Greg Bergé <berge.greg@gmail.com>",
@@ -21,7 +21,7 @@
     "prepublishOnly": "yarn run build"
   },
   "peerDependencies": {
-    "@loadable/component": "^5.0.1",
+    "@byted/loadable-component-wip": "^5.0.1",
     "react": ">=16.3.0"
   },
   "dependencies": {
